@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670848556822",
+    "project_id": "prombuzz-c12b1",
+    "storage_bucket": "prombuzz-c12b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670848556822:android:3d3afa71378dcaa5737a37",
+        "android_client_info": {
+          "package_name": "com.example.prombuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670848556822-a33v8jhmg5n2h63ftnrqtr73jec5cau2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLYMggw6LbmJBWIE8iKKObcAsSKyS7N7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670848556822-a33v8jhmg5n2h63ftnrqtr73jec5cau2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
